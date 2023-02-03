@@ -20,6 +20,6 @@ pip install -r requirements.txt
 
 | 属性名   | 说明          |
 | -------- | ------------- |
-| USERNAME | 猿人学 用户名 |
-| PASSWORD | 猿人学 密码   |
+| YRX_USERNAME | 猿人学 用户名 |
+| YRX_PASSWORD | 猿人学 密码   |
 

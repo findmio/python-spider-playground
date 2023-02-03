@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-username = os.environ.get("USERNAME")
-password = os.environ.get("PASSWORD")
+username = os.environ.get("YRX_USERNAME")
+password = os.environ.get("YRX_PASSWORD")
 
 
 async def get_session_id():
